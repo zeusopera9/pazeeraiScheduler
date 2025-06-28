@@ -1,0 +1,13 @@
+# Application Details
+spring.application.name=pazeeraiScheduler
+
+# Database Configuration
+spring.datasource.url=dataosource_url
+spring.datasource.username=username
+spring.datasource.password=password
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+# Discord Bot Token
+discord.bot.token=discord_bot_token

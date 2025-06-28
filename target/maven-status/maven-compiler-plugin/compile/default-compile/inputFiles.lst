@@ -1,0 +1,10 @@
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/PazeeraiSchedulerApplication.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/controller/PazeeraiSchedulerController.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/discord/DiscordBotConfig.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/discord/DiscordBotListener.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/dto/ScheduleRequest.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/entity/Attendee.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/entity/WeekLog.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/repository/AttendeeRepository.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/repository/WeekLogRepository.java
+/Users/zaidalimerchant/Desktop/pazeeraiScheduler/src/main/java/com/example/pazeeraiScheduler/service/PazeeraiSchedulerService.java

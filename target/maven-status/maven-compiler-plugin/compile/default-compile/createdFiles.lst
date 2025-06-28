@@ -1,0 +1,10 @@
+com/example/pazeeraiScheduler/repository/AttendeeRepository.class
+com/example/pazeeraiScheduler/discord/DiscordBotConfig.class
+com/example/pazeeraiScheduler/entity/Attendee.class
+com/example/pazeeraiScheduler/discord/DiscordBotListener.class
+com/example/pazeeraiScheduler/dto/ScheduleRequest.class
+com/example/pazeeraiScheduler/controller/PazeeraiSchedulerController.class
+com/example/pazeeraiScheduler/repository/WeekLogRepository.class
+com/example/pazeeraiScheduler/PazeeraiSchedulerApplication.class
+com/example/pazeeraiScheduler/entity/WeekLog.class
+com/example/pazeeraiScheduler/service/PazeeraiSchedulerService.class
